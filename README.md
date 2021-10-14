@@ -1,6 +1,6 @@
 # Qt-Svg-Stupid-Render
 
-Still just t C++17, porting to 11 in process!
+Still just C++17, porting to 11 in process!
 
 Very fast, but dummy SVG render to image for QT
 
