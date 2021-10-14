@@ -1,5 +1,7 @@
 # Qt-Svg-Stupid-Render
 
+Still just t C++17, porting to 11 in process!
+
 Very fast, but dummy SVG render to image for QT
 
 Using vector graphics in your project solves the problem of resolution-independent resources for your buttons and other controls.
