@@ -13,7 +13,7 @@ Of couse, thanks [user1095108](https://github.com/user1095108/). I use you code,
   
    - Lightweight, only 2 headers and one Cpp
    
-   - Easy to customize, bulding your own SVG qt module is not easy
+   - Easy to customize, bulding your own SVG Qt module is not easy for Windows users
    
    - You know why it fall, and can fix it immediately
 
