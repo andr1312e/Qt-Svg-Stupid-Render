@@ -9,7 +9,16 @@ Qt has svg module, but for small images it's would be very expencive to use it.
 This app using [NanoSVG](https://github.com/memononen/nanosvg) lib
 
 Of couse, thanks [user1095108](https://github.com/user1095108/). I use you code, you know it)). Give him a star)
+### Advantages to use it right now:
+  
+   - Lightweight, only 2 headers and one Cpp
+   
+   - Easy to customize, bulding your own SVG qt module is not easy
+   
+   - You know why it fall, and can fix it immediately
 
+   - It can do only that you want, and no more.
+    
 ### Not working:
 
 - `xmlns:xlink` is not supported. You need to parsing your svg (using `QDomDocument` for example). Try to convert these nodes:
