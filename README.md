@@ -52,3 +52,10 @@ Of couse, thanks [user1095108](https://github.com/user1095108/). I use you code,
                 image.save(pngPath);// if you want to save image
             }
         }
+
+### Results
+200 renders
+| Dummy  | QtSvg | Image |
+| ------------- | ------------- |------------- |
+| 6423 milliseconds  | 8378 milliseconds  | tiger.svg  |
+| 4186 milliseconds  | fall)) Really  | velocimetro3 |
