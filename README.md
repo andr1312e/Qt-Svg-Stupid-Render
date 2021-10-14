@@ -21,10 +21,10 @@ Of couse, thanks [user1095108](https://github.com/user1095108/). I use you code,
 
 ### How to use
 
-- copy "nanosvg.h" "qtnanosvg.h" "qtnanosvg.cpp" into your project
-- #include "nanosvg.h"
-- #include "qtnanosvg.h"
-- Usage (QImage or Pixmap) how you want:
+- copy `"nanosvg.h" "qtnanosvg.h" "qtnanosvg.cpp"` into your project
+- `#include "nanosvg.h"`
+- `#include "qtnanosvg.h"`
+- Usage (`QImage` or `QPixmap`) how you want:
 
         QString svgPath="your svg Path";
         QString pngPath="path for png";
