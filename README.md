@@ -63,8 +63,9 @@ Of couse, thanks [user1095108](https://github.com/user1095108/). I use you code,
         }
 
 ### Results
-200 renders
+D - debug ; R -release
 | Dummy  | QtSvg | Image |
 | ------------- | ------------- |------------- |
-| 6423 milliseconds  | 8378 milliseconds  | tiger.svg  |
-| 4186 milliseconds  | fall)) Really  | velocimetro3.svg |
+| 6423 milliseconds  | 8378 milliseconds  | tiger.svg (200 renders) D|
+| 4186 milliseconds  | fall)) Really  | velocimetro3.svg (200 renders) D|
+| 11412 milliseconds  | 19281 milliseconds  | cross (2000 renders) R|
